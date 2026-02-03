@@ -67,7 +67,7 @@ I also develop and maintain **mobile (Android) applications**, which are primari
 - UI design and application logic
 
 📌 **GitLab Profile:**  
-👉 https://gitlab.com/your-gitlab-username  
+👉 https://gitlab.com/taryllrubayiza  
 
 *(Replace with your actual GitLab username)*
 
