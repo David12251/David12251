@@ -101,8 +101,7 @@ I also develop **Android mobile applications**, which are mainly hosted on **Git
 - UI design, application logic, and mobile best practices
 
 🔗 **GitLab Profile:**  
-👉 https://gitlab.com/taryllrubayiza 
-
+👉 https://gitlab.com/taryllrubayiza  
 
 ---
 
@@ -123,6 +122,7 @@ I also develop **Android mobile applications**, which are mainly hosted on **Git
 
 ## 📫 Contact
 📧 Email: **taryllrubayiza@gmail.com**  
+📞 Phone: **+250 786 449 524**  
 🌐 GitHub: https://github.com/David12251  
 🌐 GitLab: https://gitlab.com/taryllrubayiza  
 
