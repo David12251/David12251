@@ -69,7 +69,6 @@ I also develop and maintain **mobile (Android) applications**, which are primari
 📌 **GitLab Profile:**  
 👉 https://gitlab.com/taryllrubayiza  
 
-*(Replace with your actual GitLab username)*
 
 ---
 
